@@ -5,15 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3497b125-c577-4aeb-b072-08cf2b07d74b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LTUassessment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/route.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/Mongodb_Patients.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/Mongodb_User.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/templates/add_patient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/templates/edit_patient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/templates/patient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/route.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/webpage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,15 +31,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2nvkyrv8EqDmwFZu9KwKkXh3THv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,9 +49,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.Mongodb_User.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.models.executor": "Run",
+    "Python.routes.executor": "Run",
     "Python.webpage.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
